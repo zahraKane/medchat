@@ -3,6 +3,9 @@
 
 Dans le monde moderne, l’accès à des informations médicales fiables et précises peut être crucial pour un patient qui cherche à comprendre ses symptômes ou à approfondir ses connaissances par rapport à certaines maladies. Et ce processus peut-être parfois intimidant surtout si le patient est confronté à un nombre exorbitant d’informations en ligne parfois douteuses.
 
+<img width="338" alt="image" src="https://github.com/zahraKane/medchat/assets/122400488/219db087-f893-4a59-a831-8251d613bf6f">
+
+
 Dans ce contexte, l'émergence de technologies telles que les chatbots médicaux intelligents comme Medchat représente une avancée majeure dans la façon dont les patients accèdent à l’information médicale.
 
 **Qu’est-ce que Medchat?**
