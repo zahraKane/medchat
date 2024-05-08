@@ -12,7 +12,7 @@ import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 //import 'package:location/location.dart' as Location;
-import 'package:medchat/utilities/services/google_maps_services.dart';
+//import 'package:medchat/utilities/services/google_maps_services.dart';
 
 import '../../constants/apps_theme_config.dart';
 
